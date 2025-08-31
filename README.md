@@ -10,7 +10,7 @@
 ## 🛠 Tech Stack
 
 - **Backend:** C#, .NET, ASP.NET Core, Entity Framework
-- **Frontend:** React, TypeScript, JavaScript
+- **Frontend:** React, Angular, TypeScript, JavaScript
 - **Databases:** SQL Server, PostgreSQL, MySQL
 - **DevOps:** Docker, Kubernetes, Azure, AWS, CI/CD
 - **Mobile** Dart (Flutter)
@@ -24,3 +24,4 @@
 ---
 
 ⭐️ Feel free to explore my repositories and contribute!
+
