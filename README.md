@@ -5,7 +5,7 @@
 👨‍💻 Software Engineer at **[AmbevTech](https://www.ambevtech.com.br/)**  
 🚀 CTO & Founder at **[PayPow App](https://paypowapp.com.br/)**  
 💡 Passionate about technology, innovation, and problem-solving  
-💻 Favortite tools: **.NET**, **React** and **React**.
+💻 Favortite tools: **.NET**, **React** and **Angular**.
 
 ## 🛠 Tech Stack
 
@@ -24,4 +24,5 @@
 ---
 
 ⭐️ Feel free to explore my repositories and contribute!
+
 
